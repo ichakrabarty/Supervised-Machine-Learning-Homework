@@ -6,6 +6,6 @@
 
 **Scaled model prediction:** Scaling is used used for Linear Regression to bring residual error down and create a more accurate model to analyze, therefore, the scaled data will bring up the accuracy of the Linear Regression model. Random Forest Classifier will not be impacted much because it is not dependent on residual error.
 
-**Scaled model conclusion:** The Linear Regression Model's accuracy went up and the Random Forest Classifier's accuracy did not change much. I believe that this result aligned with my hypothesis based on the effect of residual error on both models. 
+**Scaled model conclusion:** The Linear Regression Model's accuracy went up and the Random Forest Classifier's accuracy did not change with respect to the training data. However, the accuracy of the testing data went down. I believe that this result aligned with my hypothesis based on the effect of residual error on The Linear Regression model. 
 
  
